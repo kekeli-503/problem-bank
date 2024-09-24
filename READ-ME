@@ -1,0 +1,17 @@
+# this program is meant to 
+# 1.takes in and stores a presented problem and or solution
+# 2.asks if the user has a solution to said problem
+# 3.makes the user ass the solution if available in detailed steps
+# 4.searches the already stored problems if the user came looking for something similar
+# 5.adds alternate solutions to a problem if alternate solutions are available
+# 6.makes sure the user doesn't add a problem that already exists
+# 7.makes sure there's problem history sorted by either importance and date
+# 8.there has to be user accounts
+# 9.a way to bookmark or save a problem for later reference
+# 10.there should be a section for solved and unsolved problems
+# 11.a user should be able to scroll through and search without creating an account
+# 	but it they would want to add a problem or add a solution
+# 12.comments?
+# 13.displaying everything
+# 14.should allow users to send files if needed
+# 15.delet solved problems past a certain time limit/ find a way to store them.
